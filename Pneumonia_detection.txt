@@ -2,4 +2,5 @@ Flask
 numpy
 keras
 Pillow
+Tensorflow
 gunicorn
